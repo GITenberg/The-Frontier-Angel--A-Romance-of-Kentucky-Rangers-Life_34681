@@ -1,0 +1,31 @@
+_repo: The-Frontier-Angel--A-Romance-of-Kentucky-Rangers-Life_34681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Ellis, E. S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2010-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34681'
+  lccn: '10027856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kentucky -- Fiction'
+title: 'The Frontier Angel: A Romance of Kentucky Rangers'' Life'
+url: http://www.gutenberg.org/ebooks/34681
